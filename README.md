@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahuja</h1>
 <h3 align="center">A passionate Frontend Developer, aspiring to become a Full Stack Developer.</h3>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 
 - 🌱 I’m currently learning **React.JS, Java (Data Structures and Algorithms)**
