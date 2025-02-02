@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahuja</h1>
 <h3 align="center">A passionate Frontend Developer aspiring to become a Full Stack Developer</h3>
 
-<div style="text-align: center">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Work%20Culture%20(HD%20Visuals)/Multitasking.gif" alt="Multitasking Animation" width="400"/>
-</div>
-
 - 🌱 I’m currently learning **React, DSA**
 
 - 💬 Ask me about **DSA**
 
 - 📫 How to reach me **ahuja.tushar.m@gmail.com**
+
+<div style="text-align: right">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Work%20Culture%20(HD%20Visuals)/Multitasking.gif" alt="Multitasking Animation" width="400"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
