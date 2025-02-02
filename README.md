@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahuja</h1>
 <h3 align="center">A passionate Frontend Developer, aspiring to become a Full Stack Developer.</h3>
-<div style="text-align: left">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Work%20Culture%20(HD%20Visuals)/Multitasking.gif" alt="Multitasking Animation" width="400"/>
-</div>
+
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
 
 
 - 🌱 I’m currently learning **React.JS, Java (Data Structures and Algorithms)**
