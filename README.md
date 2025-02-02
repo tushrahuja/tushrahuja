@@ -28,7 +28,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tushrahuja&theme=dark&hide_border=false)<br/>
 
-<h3 align = "left">✍️ Random Dev Quote </h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
