@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahuja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer aspiring to be Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React**
+<div style="text-align: center;">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Work%20Culture%20(HD%20Visuals)/Multitasking.gif" alt="Multitasking Animation" width="400"/>
+</div>
+
+- 🌱 I’m currently learning **React, DSA**
+
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **ahuja.tushar.m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/tushrahujaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushrahujaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tushrahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushrahuja" height="30" width="40" /></a>
 <a href="https://instagram.com/tushrahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushrahuja" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tushrahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushrahuja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
