@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahuja</h1>
 <h3 align="center">A passionate Frontend Developer, aspiring to become a Full Stack Developer.</h3>
 
-<img align="right" src="[https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Meet%2FCoding-Meet&psig=AOvVaw2XAjH1xKg7HBHuRcfoJIx3&ust=1738607856458000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICk2ZHRpYsDFQAAAAAdAAAAABAE)" alt="Coding Animation" width="400"/>
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
 
 
 - 🌱 I’m currently learning **React.JS, Java (Data Structures and Algorithms)**
