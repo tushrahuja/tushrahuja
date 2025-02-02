@@ -26,8 +26,7 @@
 
 <h3 align="left">📊 GitHub Stats: </h3>
 
-![](https://github-readme-stats.vercel.app/api?username=tushrahuja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=tushrahuja&theme=dark&hide_border=false)<br/>
 
 <h3 align = "left">✍️ Random Dev Quote </h3>
 
