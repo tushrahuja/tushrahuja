@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahuja</h1>
-<h3 align="center">A passionate Frontend Developer aspiring to be Full Stack Developer</h3>
+<h3 align="center">A passionate Frontend Developer aspiring to become a Full Stack Developer</h3>
 
 <div style="text-align: center;">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
