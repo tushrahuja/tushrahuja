@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **React.JS, Java (Data Structures and Algorithms)**
+- 🌱 I’m currently learning **Java (Data Structures and Algorithms)**
 
-- 💬 Ask me about **DSA, MySQL**
+- 💬 Ask me about **DSA, MySQL and Nodejs**
 
-- 📫 How to reach me **ahuja.tushar.m@gmail.com**
+- 📫 How to reach me **tusharahuja.dev@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
